@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChampionWand/SolaraV3"><img src="https://img.shields.io/badge/Stars-468-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/></a>
-  <a href="https://github.com/ChampionWand/SolaraV3"><img src="https://img.shields.io/badge/Downloads-2.9K-blue?style=for-the-badge&logo=github&logoColor=white" alt="Downloads"/></a>
+  <a href="https://github.com/ChampionWand/SolaraV3"><img src="https://img.shields.io/badge/Stars-612-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/></a>
+  <a href="https://github.com/ChampionWand/SolaraV3"><img src="https://img.shields.io/badge/Downloads-3.1K-blue?style=for-the-badge&logo=github&logoColor=white" alt="Downloads"/></a>
   <a href="https://github.com/ChampionWand/SolaraV3"><img src="https://img.shields.io/badge/Version-V3.4.0-purple?style=for-the-badge" alt="Version"/></a>
   <a href="https://github.com/ChampionWand/SolaraV3"><img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-informational?style=for-the-badge" alt="Platform"/></a>
 </p>
